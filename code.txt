@@ -2,4 +2,6 @@ change at 02:26 pm at master
 
 change at 02:28 pm at cyril
 
-s
+change at 02:48 pm at cyril for stash 1
+
+my new commit at 02:49
